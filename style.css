@@ -1,0 +1,22 @@
+.orange{
+    width: 150px;
+    background-color: red;
+    border-radius: 30px;
+}
+.broccoli{
+    width: 150px;
+    background-color: yellow;
+    border-radius: 30px;
+}
+
+h1{
+    color: blue;
+    font-family:Arial, Helvetica;
+    font-weight:bolder;
+    font-size: 40px;
+    
+}
+h3{
+  
+    font-weight: lighter;
+}
